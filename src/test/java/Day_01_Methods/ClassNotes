@@ -1,0 +1,30 @@
+
+Method : Function
+
+public static void main(Srting [] args){
+    declaring a method:
+    Access modifiers        Specifier  Return Type  Method name(Prametre)
+
+}
+
+ Access modifier  public, private, protected, default
+ Specifier : static, final, abstract, sychronized
+ Return  Type : void, Any Date Type
+ Methot : can be any name
+ parameter : any date
+
+ Student str=new student();
+
+ Method Overloading
+
+    - Multiple Different methods sharing the same method name
+    - Same method name, different parameters
+    - Return type, access modifiers, specifiers can ve same or different
+
+    Advantages
+    1. aesy to memorize
+    2. aesy to read
+    3. reusable
+    4. flexible
+
+    // Test otomasyonda method overloading nerede kullanirsin?

@@ -1,0 +1,6 @@
+
+    //CarNew adında bir class oluşturun
+    //fieldları marka,modelAdı,begir
+    // farklı bir class da CarNew clasından 2 adet obje tanımlayın
+    // ve bu 2 adet objenin begirlerini karşılaştırın hangisinin
+    // begiri büyük ise ekrana onun marka ve modelini yazın

@@ -1,0 +1,26 @@
+
+  Hem void Hem de return tipli olarak iki ayrı classda çalışırsınız
+
+    //  1. create a method that can print odd numbers between 1~100 in a same line saperated by space
+
+    //  2. create a method that can print even numbers between 1~100 in a same line saperated by space
+
+//      3. create a method that can check if a person is eligible to vote
+//    Ex:
+//         eligibleToVote(19, "TR");
+//
+//   output:
+//        You are  eligible to vote!
+
+// 4. create a method that can calculate the grade of the student based on the score
+// score >= 90 grade 'A'
+// score >= 80 grade 'B'
+// score >= 70 grade 'C'
+// score >= 60 grade 'D'
+// score < 60 grade 'F'
+
+
+//  5. create a method named calculator that passes three arguments (num1, num2, mathOperator),
+//      prints the calculation result
+
+// 6. verdigimiz bir sayinin faktoryelini hesaplayip

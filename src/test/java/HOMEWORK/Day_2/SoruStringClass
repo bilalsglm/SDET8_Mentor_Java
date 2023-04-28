@@ -1,0 +1,51 @@
+
+1.    //Kullanıcıdan bir input alın ve girilen inputun ilk 3
+    // harfini yazan , 3 kelimeden az ise inputu döndüren bir metot yazınız.
+    //Merhaba Mer Ali Ali
+
+
+
+2.    //Kullanıcıdan 2 kelime alın kısa kelime yi başta 2 defa, uzun
+    // kelimeyi ortada 30 defa kısa kelimeyi tekrar sonda 2 defa yazdıran metodu yazınız.
+
+
+3.    //Kullanıcıdan bir kelime veya söz alın ve ilk 5
+    // karakterini yazdırın. 5 karakterin altında bir kelime girdiği taktirde
+    // 5 karaktere nokta ile tamamlayın.
+    //Sabun Sabun Merhaba Merha Ali Ali..
+    //Hey Hey..
+    //Pi Pi...
+
+
+
+4.    //Kullanıcının  ad ve soyad bilgilerini
+    //  Ekrana "Soy isminiz ..(soyad)" Yazan metodu yazınız.
+
+    //İnput: "Harun Özsoy "
+    //Output: "Soy isminiz Özsoy dır."
+    //İnput:" Harun Kenan Özsoy " Output: "Soy isminiz Özsoy"
+    //İnput: "Harun Kenan Can Özsoy " Output: "Soy isminiz Özsoy"
+    //İnput:" Harun Kenan Can Sami Özsoy" Output: "Soy isminiz Özsoy"
+    //Kullanıcı başına ve sonuna dilediği kadar boşluk girebilir lütfen
+    // bu durumu dikkate alın. Output’u dikkatli inceleyin.
+
+
+5.    //Kullanıcıdan bir dize sözcük alın ve yinelenen
+    // her karakteri kelimenizden çıkartarak sonuç
+    // döndüren metodu yazınız. (Büyük küçük duyarlı)
+
+    //Merhaba Merhab Ananas Anas
+
+
+
+6.    /*Write a method that can return the unique characters from a String
+
+            Ex:
+                input:
+                    AABCCD
+
+                output:
+                    BD
+
+            Hint: You will need indexOf() and lastIndexOf()
+                  if the first and last index numbers of the character are same, then it's unique
