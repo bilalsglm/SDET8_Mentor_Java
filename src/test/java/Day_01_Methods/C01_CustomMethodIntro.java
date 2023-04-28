@@ -4,6 +4,9 @@ public class C01_CustomMethodIntro {
     public static void main(String[] args) {
         //System.out.println("Hello World");
         System.out.println("Program started");
+
+        System.out.println();
+
         sayHello();
         sayHello();
         sayHello();
